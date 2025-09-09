@@ -35,7 +35,7 @@ my top favorite **weebsite** are
 echo "halow guys";
 ```
 ---
-|subhject|grade|
+|subject|grade|
 |---|---|
 |Cpar|90|
 |filipino|91|
